@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """101-nqueens finds all possible solutions the N queens puzzle, including
 translations and reflections.
 
