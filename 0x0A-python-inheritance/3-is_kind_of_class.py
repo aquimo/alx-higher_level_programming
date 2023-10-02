@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+""" 0x0A. Python - Inheritance, task 3 """
 
 
 def is_kind_of_class(obj, a_class):

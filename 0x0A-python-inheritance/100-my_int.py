@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+""" 0x0A. Python - Inheritance, task 12 """
 
 
 class MyInt(int):

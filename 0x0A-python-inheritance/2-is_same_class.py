@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+""" 0x0A. Python - Inheritance, task 2 """
+
 
 def is_same_class(obj, a_class):
     """Tests if an object is exactly an instance of a specific class.

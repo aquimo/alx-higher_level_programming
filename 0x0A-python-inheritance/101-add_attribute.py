@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+""" 0x0A. Python - Inheritance, task 13 """
 
 
 def add_attribute(obj, attribute, value):
