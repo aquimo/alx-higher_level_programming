@@ -2,6 +2,7 @@
 # 9-rectangle.py
 """Define a Rectangle class."""
 
+
 class Rectangle:
     """Representation of a rectangle.
 
