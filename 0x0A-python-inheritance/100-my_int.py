@@ -2,6 +2,7 @@
 # 100-my_int.py
 """Class MyInt that inherits from int."""
 
+
 class MyInt(int):
     """Invert int operators == and !=."""
 

@@ -2,6 +2,7 @@
 # 101-add_attribute.py
 """Defines a ftion that add attribute to object."""
 
+
 def add_attribute(obj, att, value):
     """Add a new attribute to an object if possible.
 
